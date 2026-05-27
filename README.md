@@ -1,6 +1,6 @@
 A Jornada da IA: Um Passeio pelo Futuro 🌌
 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 8 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
